@@ -26,7 +26,7 @@ Wait for approval.
 Make changes and create a pull request.
 If the heading is not added of the project type , then you can add
 
-Java Projects
+#Java Projects
 Password Generator using Java - https://github.com/KZarzour/Password-Generator
 
 Online Survey System - https://github.com/kodekracker/Online-Survey-System
@@ -49,7 +49,7 @@ Wordcount Tools in Java - https://github.com/lucassrg/javawc
 
 
 
-Core Java Projects With Source Code
+#Core Java Projects With Source Code
 
 Create a Consumer Relationship Management System - https://github.com/machowina/CRM
 
@@ -63,7 +63,7 @@ Create a Criminal Face Detection System- https://github.com/prasadus92/Face-Reco
 
 
 
-React projects
+#React projects
 React Notes Application - https://github.com/paydendyer/react-notes-app
 
 React Pokemon App using PokeAPI - https://github.com/Megh2507/Pokemon-App
@@ -85,7 +85,7 @@ Instagram Clone - https://github.com/topics/instagram-clone
 E-Commerce Application - https://github.com/meabhisingh/mernProjectEcommerce
 
 
-Full Stack Projects
+#Full Stack Projects
 To-do List Project - https://github.com/snyk-labs/nodejs-goof
 
 Blog Website/App - https://github.com/rajaraodv/react-redux-blog
@@ -107,7 +107,7 @@ Content Management Tool/System for Blogs - https://github.com/mahmudahsan/python
 Project Management Tool - https://github.com/JordanKnott/taskcafe
 
 
-Data Science Projects
+#Data Science Projects
 Fake News Detection Using Python- https://github.com/nishitpatel01/Fake_News_Detection
 
 Detecting Forest Fire - https://github.com/Skar0/fire-detection
@@ -129,7 +129,7 @@ Diabetic Retinopathy - https://github.com/rsk97/Diabetic-Retinopathy-Detection
 Detection of Credit Card Fraud - https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras
 
 
-C++ Projects
+#C++ Projects
 Bookshop Management System Using C++ - https://github.com/aryan-khanijo/Bookshop-Management-System-CPP-Project
 
 Bank Management System In C++ - https://github.com/wkhaliddev/Bank-Management/tree/master/DSAproject
@@ -155,7 +155,7 @@ Face Detection App with C++ - https://github.com/elador/FeatureDetection
 Digital Calculator - https://github.com/christopher-siewert/cpp-calculator
 
 
-Machine Learning Projects
+#Machine Learning Projects
 Home Value Prediction Project - https://github.com/Shreyas3108/house-price-prediction
 
 Sales Prediction Project - https://github.com/storieswithsiva/Kaggle-Predicting-Future-Sales
@@ -169,6 +169,9 @@ Stock Prices Predictor with the help of TimeSeries - https://github.com/huseinzo
 Predicting Wine Quality with the help of Wine Quality Dataset- https://github.com/amberkakkar01/Prediction-of-Wine-Quality
 
 MNIST Handwritten Digit Classification- https://github.com/anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning
+
 Myers-Briggs Personality Prediction
+
 Market Basket Analysis - https://github.com/DiegoUsaiUK/Market_Basket_Analysis
+
 Text Summarisation - https://github.com/ebenso/TextSummarizer
